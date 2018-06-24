@@ -1,12 +1,15 @@
-# fifa worldcup
+# grab-lucky-number
 Google assistant app with dialogflow
 
 ## Goal
-Get to know the facts and information about different countries participating in FIFA WorldCup 
+You want to find your lucky number. I can help you with that :)
 
 ## official website
-https://Harshmakadia.github.io/fifa-worldcup-facts/
+https://dipen-dedania.github.io/grab-lucky-number/
 
-![ga](https://github.com/Harshmakadia.github.io/fifa-worldcup-facts/images/rainbow.png)
+![ga](https://github.com/Dipen-Dedania/grab-lucky-number/blob/master/images/rainbow.png)
 ## Okay Google, 
-## ”Talk to Fifa WorldCup”
+## ”Talk to Grab lucky number”
+
+## Demo
+![Demo](https://github.com/Dipen-Dedania/grab-lucky-number/blob/master/images/demo.gif)
